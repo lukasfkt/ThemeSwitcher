@@ -11,9 +11,9 @@
 
 <h2>Imagens Layout :triangular_ruler:</h2>
 
-<h3> MOON THEME: :crescent_moon: </h3>
+<h3> :crescent_moon: THEME:  </h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/86384828/158475103-0c965b9f-cae0-4386-93ad-7c73829e447c.png"></p>
-<h3> SUN THEME: :sunny: </h3>
+<h3> :sunny: THEME:  </h3>
   <p align="center">
     <img src="https://user-images.githubusercontent.com/86384828/158475310-940f8807-d59b-4f03-910d-207709f1e046.png"></p>
