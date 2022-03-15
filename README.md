@@ -5,9 +5,9 @@
 <b>Figma: </b> https://www.figma.com/file/p83YAKqdgBRlfPcqh0ZDTV/DD-%2F-Theme-Switcher-(Copy)
 
 <h2>TECHS  :rocket:</h2>
-<p>:small_blue_diamond: HTML :heavy_check_mark:</p>
-<p>:small_blue_diamond: CSS :heavy_check_mark:</p>
-<p>:small_blue_diamond: JS :heavy_check_mark:</p>
+<p>:small_blue_diamond: HTML </p>
+<p>:small_blue_diamond: CSS</p>
+<p>:small_blue_diamond: JS</p>
 
 <h2>Imagens Layout :triangular_ruler:</h2>
 
@@ -16,4 +16,4 @@
     <img src="https://user-images.githubusercontent.com/86384828/158475103-0c965b9f-cae0-4386-93ad-7c73829e447c.png"></p>
 <h3> SUN THEME: </h3>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/86384828/158475233-342b3c02-ad3d-44b1-b7da-945ee410ac85.png"></p>
+    <img src="https://user-images.githubusercontent.com/86384828/158475310-940f8807-d59b-4f03-910d-207709f1e046.png"></p>
