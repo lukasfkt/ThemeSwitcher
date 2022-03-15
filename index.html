@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/build/style.min.css" />
+    <link rel="icon" href="/assets/favicon/favicon-32x32.png" />
+    <title>Theme Switcher</title>
+  </head>
+  <body class="moon">
+    <label class="switcher">
+      <input type="checkbox" />
+      <span></span>
+    </label>
+    <script>
+      const switcher = document.querySelector('.switcher')
+      switcher.addEventListener('click', function () {
+        const body = document.querySelector('body')
+        const input = document.querySelector('input')
+        if (input.checked) body.classList.add('sun')
+        else body.classList.remove('sun')
+      })
+    </script>
+  </body>
+</html>
